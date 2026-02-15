@@ -1,0 +1,82 @@
+# requirements_no_api.txt
+# Provider Directory Validation System
+# NO API KEYS VERSION - Minimal dependencies
+# Total install size: ~200MB (vs 2GB+ with OpenAI/LangChain)
+
+# ============================================
+# CORE WEB FRAMEWORK
+# ============================================
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+streamlit==1.28.1
+
+# ============================================
+# DATA PROCESSING & ANALYSIS
+# ============================================
+pandas==2.1.3
+numpy==1.26.2
+
+# ============================================
+# SYNTHETIC DATA GENERATION
+# ============================================
+faker==20.1.0
+
+# ============================================
+# VISUALIZATION (for Streamlit dashboard)
+# ============================================
+plotly==5.18.0
+
+# ============================================
+# UTILITIES
+# ============================================
+python-dotenv==1.0.0
+pydantic==2.5.0
+
+# ============================================
+# OPTIONAL - Web Scraping (for future use)
+# ============================================
+# Uncomment these if you want to add real web scraping later
+# beautifulsoup4==4.12.2
+# requests==2.31.0
+# lxml==4.9.3
+
+# ============================================
+# INSTALLATION INSTRUCTIONS
+# ============================================
+# 
+# Quick Install:
+# pip install -r requirements_no_api.txt
+#
+# Or install individually:
+# pip install fastapi uvicorn streamlit pandas numpy faker plotly pydantic python-dotenv
+#
+# Verify installation:
+# python -c "import fastapi, streamlit, pandas, faker; print('✅ All dependencies installed!')"
+#
+# ============================================
+# WHAT'S NOT NEEDED (saves ~1.8GB)
+# ============================================
+# 
+# ❌ openai - Not required (simulated LLM responses)
+# ❌ langgraph - Not required (simulated multi-agent)
+# ❌ langchain - Not required (simulated chains)
+# ❌ langchain-openai - Not required
+# ❌ pypdf2 - Not required (simulated PDF processing)
+# ❌ pdf2image - Not required
+# ❌ pillow - Not required
+# ❌ torch - Not required
+# ❌ transformers - Not required
+#
+# All AI functionality is intelligently simulated!
+#
+# ============================================
+# UPGRADE TO PRODUCTION VERSION
+# ============================================
+#
+# To add real AI capabilities later, install:
+# pip install openai langgraph langchain langchain-openai
+# pip install pypdf2 pdf2image pillow
+#
+# Then replace simulated components with real APIs
+#
+# ============================================

@@ -1,0 +1,21 @@
+pdf_id,filename,document_type,provider_name,license_number,state,issue_date,expiry_date,document_quality,requires_ocr
+1,provider_license_1.pdf,License Certificate,Joseph Smith,FL815338,CA,2024-08-23,2026-12-05,Medium,False
+2,provider_license_2.pdf,License Certificate,Kara Rogers,GA863865,NC,2023-02-07,2027-03-25,Low,False
+3,provider_license_3.pdf,License Certificate,Steve Key,MI862214,CA,2019-11-15,2027-05-03,Medium,False
+4,provider_license_4.pdf,Board Certification,Jamie Brown,MI330153,PA,2021-11-08,2027-03-16,Low,False
+5,provider_license_5.pdf,Credential Letter,April Harrell,CA900407,TX,2022-08-19,2026-05-22,Scanned,False
+6,provider_license_6.pdf,Board Certification,Bryce Schmidt,CA491892,NC,2020-01-10,2027-05-14,High,False
+7,provider_license_7.pdf,Board Certification,Michael Kane,NC156862,NC,2024-07-22,2027-07-22,High,True
+8,provider_license_8.pdf,Credential Letter,April Little,NC723699,CA,2021-04-11,2025-11-13,Low,True
+9,provider_license_9.pdf,Credential Letter,Shelley Montes,TX678158,GA,2021-05-02,2028-09-06,High,True
+10,provider_license_10.pdf,License Certificate,Lawrence Ross,OH413765,GA,2017-03-07,2027-04-13,Scanned,False
+11,provider_license_11.pdf,Credential Letter,Timothy Galvan,PA581007,OH,2017-07-04,2027-06-08,Medium,True
+12,provider_license_12.pdf,License Certificate,Cory Thomas,PA888933,IL,2024-08-23,2028-03-25,High,False
+13,provider_license_13.pdf,License Certificate,Michelle Johnson,NY861498,NC,2024-04-07,2026-03-03,High,True
+14,provider_license_14.pdf,License Certificate,Michael Dunn,PA234098,NC,2023-09-27,2026-07-07,Medium,False
+15,provider_license_15.pdf,Credential Letter,Tina Olson,NY526475,OH,2024-12-29,2026-10-28,Low,False
+16,provider_license_16.pdf,Board Certification,Christopher Raymond,PA352600,FL,2017-04-26,2026-03-31,High,True
+17,provider_license_17.pdf,Board Certification,Mike Martin,CA171434,CA,2021-05-08,2027-06-06,Medium,False
+18,provider_license_18.pdf,Board Certification,Connie Scott,PA885212,CA,2023-11-25,2028-08-25,Scanned,False
+19,provider_license_19.pdf,Credential Letter,Chad Nichols,GA999503,GA,2024-03-01,2026-03-08,Scanned,False
+20,provider_license_20.pdf,Board Certification,Faith Walker,MI443985,GA,2025-08-05,2028-05-09,Medium,True

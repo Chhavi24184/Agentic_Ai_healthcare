@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env/Secrets
+.env
+*.env
+.env.*
+
+# Streamlit
+.streamlit/
+
+# Trae IDE workspace
+.trae/
+
+# Node/npm (if present)
+node_modules/
+
+# Data cache
+data/*.parquet
+data/*.feather
+data/*.pkl

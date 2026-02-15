@@ -1,0 +1,21 @@
+pdf_id,filename,document_type,provider_name,license_number,state,issue_date,expiry_date,document_quality,requires_ocr
+1,provider_license_1.pdf,License Certificate,Dr. Teresa Ortega MD,CA327257,MI,2016-10-08,2027-04-25,Scanned,False
+2,provider_license_2.pdf,Credential Letter,Renee Smith,NY698896,NC,2022-08-19,2026-05-22,High,True
+3,provider_license_3.pdf,License Certificate,Bryce Schmidt,CA924160,MI,2020-01-10,2027-05-14,Medium,True
+4,provider_license_4.pdf,License Certificate,Michael Kane,FL688654,IL,2024-07-22,2027-07-22,High,False
+5,provider_license_5.pdf,Credential Letter,April Little,IL179785,CA,2021-04-11,2025-11-13,Low,True
+6,provider_license_6.pdf,Credential Letter,Shelley Montes,IL412112,OH,2021-05-02,2028-09-06,Scanned,False
+7,provider_license_7.pdf,Credential Letter,Lawrence Ross,TX531285,MI,2017-03-07,2027-04-13,Scanned,True
+8,provider_license_8.pdf,Credential Letter,Timothy Galvan,PA377089,TX,2017-07-04,2027-06-08,Low,True
+9,provider_license_9.pdf,License Certificate,Cory Thomas,MI257451,OH,2024-08-23,2028-03-25,High,False
+10,provider_license_10.pdf,Board Certification,Michelle Johnson,TX233558,FL,2024-04-07,2026-03-03,Low,True
+11,provider_license_11.pdf,Board Certification,Michael Dunn,MI379529,CA,2023-09-27,2026-07-07,Scanned,False
+12,provider_license_12.pdf,License Certificate,Tina Olson,NC946592,PA,2024-12-29,2026-10-28,Medium,False
+13,provider_license_13.pdf,Credential Letter,Christopher Raymond,NY740973,PA,2017-04-26,2026-03-31,Scanned,True
+14,provider_license_14.pdf,License Certificate,Mike Martin,FL647629,GA,2021-05-08,2027-06-06,Low,False
+15,provider_license_15.pdf,License Certificate,Connie Scott,TX792160,NC,2023-11-25,2028-08-25,High,True
+16,provider_license_16.pdf,Board Certification,Chad Nichols,IL254648,OH,2024-03-01,2026-03-08,Scanned,True
+17,provider_license_17.pdf,Credential Letter,Faith Walker,OH584815,IL,2025-08-05,2028-05-09,Low,False
+18,provider_license_18.pdf,Credential Letter,Greg Kent,NC835575,NY,2022-04-16,2028-07-30,Scanned,True
+19,provider_license_19.pdf,Board Certification,Kristina Chase,TX907900,GA,2019-10-08,2026-10-01,Medium,True
+20,provider_license_20.pdf,Credential Letter,Earl Rodriguez,NC543834,NY,2021-08-02,2028-04-25,High,False
